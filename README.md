@@ -12,4 +12,5 @@
 ### *Do not modify or delete the Xvirtual menu. that is related to licensing.
 
 ###### API : Windows API 1985.
+###### Libraries : Windows.h , tchar.h , cmath , string
 ###### License at XOS Team

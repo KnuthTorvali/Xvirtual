@@ -11,3 +11,6 @@
 #### fourth : enjoy your Xvirtual
 
 ### *Do not modify or delete the Xvirtual menu. that is related to licensing.
+
+###### API : Windows API 1985.
+###### License at XOS Team
